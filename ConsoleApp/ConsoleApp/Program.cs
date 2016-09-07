@@ -10,7 +10,9 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x = 19;
+            int y = 20;
+            Console.WriteLine("Hello World! " + (x + y).ToString());
         }
     }
 }
