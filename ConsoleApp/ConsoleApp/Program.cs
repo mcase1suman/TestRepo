@@ -12,7 +12,8 @@ namespace ConsoleApp
         {
             int x = 19;
             int y = 20;
-            Console.WriteLine("Hello World! " + (x + y).ToString());
+            int z = 45;
+            Console.WriteLine("Hello World! " + (x + y + z).ToString());
         }
     }
 }
