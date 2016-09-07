@@ -10,6 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            // My beautiful code
             int x = 19;
             int y = 20;
             int z = 45;
